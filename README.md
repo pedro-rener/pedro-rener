@@ -34,9 +34,6 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rener&layout=compact)
 -----
 
-<!--
-**pedro-rener/pedro-rener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 </p>
 <p align="center">
@@ -46,3 +43,11 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rener&theme=radical&layout=compact" />
 </p>
+
+
+
+
+
+
+<!--
+**pedro-rener/pedro-rener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
