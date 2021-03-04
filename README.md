@@ -1,6 +1,4 @@
 ### Hello World 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rener&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rener&show_icons=true&theme=radical)
 
 
