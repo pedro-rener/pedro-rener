@@ -19,6 +19,7 @@
 My name is Pedro Rener, I am 22 years old, I am a self-taught student in web development, and I specialize in Front-end. At the moment I have been studying more and more web technologies and developing projects with the objective of improving my programming skills and being able to enter the job market.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br>
 
 **Talking about Personal Stuffs:**
 
@@ -36,7 +37,7 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)
 <br>
-
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rener&show_icons=true&theme=dracula)
 
 <!--
