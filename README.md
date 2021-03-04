@@ -25,13 +25,13 @@ My name is Pedro Rener, I'm 22 years old, I'm a self-taught web development stud
 - 🤔 My interests are Web Development, Games and Animes
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 Send an email to alvsxpdr@gmail.com to contact me.
-- 📝 See my [Curriculum Vitae] (https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae] (Link) to get more info.
 
 
 **Languages and Tools:**  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rener&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rener&show_icons=true&theme=dark)
 
 <!--
 **pedro-rener/pedro-rener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
