@@ -10,6 +10,7 @@
 My name is Pedro Rener, I am 22 years old, I am a self-taught student in web development, and I specialize in Front-end. At the moment I have been studying more and more web technologies and developing projects with the objective of improving my programming skills and being able to enter the job market.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br>
 
 **Talking about Personal Stuffs:**
 
@@ -28,12 +29,10 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 <br>
 <br>
 <br>
-  <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc55&theme=radical&layout=compact" />
-    <p align="right">
+-----
 <img src="https://github-readme-stats.vercel.app/api?username=aryanc55&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aryan's GitHub Stats" />
-  
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanc55&theme=radical&layout=compact" />
+
   
 -----
 <!--
