@@ -20,7 +20,6 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <br>
-<br>
 
 **Talking about Personal Stuffs:**
 
