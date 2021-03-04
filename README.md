@@ -30,25 +30,11 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 
 
 **Languages and Tools:**  
-</p>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
-<p align="center">
-      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-             
-</p>
-
-
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rener&show_icons=true&theme=dracula)
 
