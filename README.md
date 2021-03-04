@@ -5,10 +5,6 @@
     I'm Pedro :wave:
     <br><br>
     i'm learning to program and i really like web development :globe_with_meridians:
-    <br><br>
-    I believe in a world where Milkshakes can solve any and all problems :grin:
-    <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
 
