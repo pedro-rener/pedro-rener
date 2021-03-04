@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Omer Quadri :wave:
+    I'm Pedro :wave:
     <br><br>
-    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
+    i'm learning to program and i really like web development :globe_with_meridians:
     <br><br>
     I believe in a world where Milkshakes can solve any and all problems :grin:
     <br><br>
