@@ -43,5 +43,22 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rener&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rener&layout=compact)
 -----
+
+
+
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-pedrorener-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrorener/)](https://www.linkedin.com/in/pedrorener/)
+[![Twitter Badge](https://img.shields.io/badge/-@Alvsxpdr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Alvsxpdr)](https://twitter.com/Alvsxpdr)
+[![Instagram Badge](https://img.shields.io/badge/-@alvesxpdr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alvesxpdr/)](https://www.instagram.com/alvesxpdr/)
+
+
+
+
+
+
+
+
 <!--
 **pedro-rener/pedro-rener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
