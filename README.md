@@ -31,10 +31,7 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 <br>
 -----
 </p>
-
 <img src="https://github-readme-stats.vercel.app/api?username=pedro-rener&&show_icons=true&theme=radical&line_height=27&v=5" alt="pedro-rener GitHub Stats" /> 
-</p>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rener&theme=radical&layout=compact" />
 </p>
 -----
