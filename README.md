@@ -14,9 +14,9 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 
 **Talking about Personal Stuffs:**
 
-- 💻 I am currently learning HTML, CSS and JAVASCRIPT;
-- 🤔 My interests are Web Development, Games and Animes
-- 💬 Ask me about anything, I'm happy to help;
+- 💻 I am currently learning HTML, CSS and JAVASCRIPT.
+- 🤔 My interests are Web Development, Games and Animes.
+- 💬 Ask me about anything, I'm happy to help.
 - 📫 Send an email to alvsxpdr@gmail.com to contact me.
 - 📝 See my [Curriculum Vitae] (Link) to get more info.
 
