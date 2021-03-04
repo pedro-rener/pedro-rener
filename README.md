@@ -3,7 +3,8 @@
 <a href="https://www.linkedin.com/in/pedrorener/">
   <img align="left" alt="pedrorener LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<a href="https://twitter.com/Alvsxpdr">
+  <img align="left" alt="Alvsxpdr Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/alvesxpdr/">
   <img align="left" alt="alvesxpdr Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
