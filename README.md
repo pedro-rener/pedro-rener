@@ -40,7 +40,6 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 <br>
 -----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rener&show_icons=true&theme=dracula)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rener&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -----
 <!--
