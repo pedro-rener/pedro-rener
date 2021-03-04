@@ -23,8 +23,7 @@
 
 -----
 
-You can find me in the web:
-
+### You can find in me in the web 🌍
 <a href="https://twitter.com/Alvsxpdr">
   <img align="left" alt="Alvsxpdr Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
