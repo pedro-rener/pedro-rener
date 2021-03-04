@@ -45,5 +45,3 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 -----
 <!--
 **pedro-rener/pedro-rener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
