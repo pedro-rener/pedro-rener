@@ -26,13 +26,13 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rener&theme=radical&layout=compact" />
 
 <br>
 <br>
 <br>
------
 <img src="https://github-readme-stats.vercel.app/api?username=pedro-rener&&show_icons=true&theme=radical&line_height=27&v=5" alt="pedro-rener GitHub Stats" /> 
------
+
 <!--
 **pedro-rener/pedro-rener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
