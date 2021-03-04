@@ -1,17 +1,8 @@
 ### Hello World🌍,
 
-<a href="https://www.linkedin.com/in/pedrorener/">
-  <img align="left" alt="pedrorener LinkdeIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/Alvsxpdr">
-  <img align="left" alt="Alvsxpdr Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/alvesxpdr/">
-  <img align="left" alt="alvesxpdr Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/pedroorener/">
-  <img align="left" alt="pedroorener Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-pedrorener-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrorener/)](https://www.linkedin.com/in/pedrorener/)
+[![Twitter Badge](https://img.shields.io/badge/-@Alvsxpdr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Alvsxpdr)](https://twitter.com/Alvsxpdr)
+[![Instagram Badge](https://img.shields.io/badge/-@alvesxpdr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alvesxpdr/)](https://www.instagram.com/alvesxpdr/)
 
 <br />
 <br />
@@ -38,27 +29,10 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)
 <br>
 <br>
-<br>
 -----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rener&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rener&layout=compact)
 -----
-
-
-
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-pedrorener-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrorener/)](https://www.linkedin.com/in/pedrorener/)
-[![Twitter Badge](https://img.shields.io/badge/-@Alvsxpdr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Alvsxpdr)](https://twitter.com/Alvsxpdr)
-[![Instagram Badge](https://img.shields.io/badge/-@alvesxpdr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alvesxpdr/)](https://www.instagram.com/alvesxpdr/)
-
-
-
-
-
-
-
 
 <!--
 **pedro-rener/pedro-rener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
