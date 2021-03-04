@@ -19,7 +19,6 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 - 💬 Ask me about anything, I'm happy to help;
 - 📫 Send an email to alvsxpdr@gmail.com to contact me.
 - 📝 See my [Curriculum Vitae] (Link) to get more info.
-<br>
 
 **Languages and Tools:**  
 
@@ -27,6 +26,7 @@ My name is Pedro Rener, I am 22 years old, I am a self-taught student in web dev
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)
+<br>
 <br>
 <br>
 -----
