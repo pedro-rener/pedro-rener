@@ -12,7 +12,8 @@
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  
+ ----
+ 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-rener&show_icons=true&theme=dracula)
