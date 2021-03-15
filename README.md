@@ -1,7 +1,7 @@
 ### Hello World🌍,
 
-[![Linkedin Badge](https://img.shields.io/badge/-pedrorener-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrorener/)](https://www.linkedin.com/in/pedrorener/)
-[![Twitter Badge](https://img.shields.io/badge/-@Alvsxpdr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Alvsxpdr)](https://twitter.com/Alvsxpdr)
+[![Linkedin Badge](https://img.shields.io/badge/-alvesxpdr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvesxpdr/)](https://www.linkedin.com/in/alvesxpdr/)
+[![Twitter Badge](https://img.shields.io/badge/-@alvesxpdr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alvesxpdr)](https://twitter.com/Alvsxpdr)
 [![Instagram Badge](https://img.shields.io/badge/-@alvesxpdr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alvesxpdr/)](https://www.instagram.com/alvesxpdr/)
 
 <br />
@@ -32,8 +32,8 @@ My name is Pedro Alves, I am 22 years old, I am a self-taught student in web dev
 <br>
 -----
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pedro-rener&&show_icons=true&theme=radical&line_height=27&v=5" alt="pedro-rener GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rener&theme=radical&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=alvesxpdr&&show_icons=true&theme=radical&line_height=27&v=5" alt="alvesxpdr GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesxpdr&theme=radical&layout=compact" />
 
   
 -----
