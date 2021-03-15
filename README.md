@@ -1,7 +1,7 @@
 ### Hello World🌍,
 
 [![Linkedin Badge](https://img.shields.io/badge/-alvesxpdr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvesxpdr/)](https://www.linkedin.com/in/alvesxpdr/)
-[![Twitter Badge](https://img.shields.io/badge/-@alvesxpdr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alvesxpdr)](https://twitter.com/Alvsxpdr)
+[![Twitter Badge](https://img.shields.io/badge/-@alvesxpdr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alvesxpdr)](https://twitter.com/alvesxpdr)
 [![Instagram Badge](https://img.shields.io/badge/-@alvesxpdr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alvesxpdr/)](https://www.instagram.com/alvesxpdr/)
 
 <br />
