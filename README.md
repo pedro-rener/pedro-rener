@@ -11,7 +11,7 @@ Meu nome é Pedro Rener, tenho 22 anos, sou estudante autodidata de progrmação
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
 
-**Talking about Personal Stuffs:**
+**Coisas Pessoais:**
 
 - 💻 Estou atualmente aprendendo HTML, CSS e JAVASCRIPT.
 - 🤔 Meus interesses são Desenvolvimento Web, Jogos e Animes.
@@ -19,7 +19,7 @@ Meu nome é Pedro Rener, tenho 22 anos, sou estudante autodidata de progrmação
 - 📫 Envie um e-mail para pedro.rener@outlook.com para entrar em contato comigo.
 - 📝 Veja meu [Curriculum Vitae] (Link) para obter mais informações.
 
-**Linguagens e Ferramentas**  
+**Linguagens e Ferramentas:**  
 
 <p align="left">
   🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap.</strong>
