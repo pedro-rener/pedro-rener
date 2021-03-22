@@ -9,8 +9,7 @@
 
 My name is Pedro Alves, I am 22 years old, I am a self-taught student in web development, and I specialize in Front-end. At the moment I have been studying more and more web technologies and developing projects with the objective of improving my programming skills and being able to enter the job market.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
 
 **Talking about Personal Stuffs:**
 
@@ -35,7 +34,8 @@ My name is Pedro Alves, I am 22 years old, I am a self-taught student in web dev
 <img src="https://github-readme-stats.vercel.app/api?username=alvesxpdr&&show_icons=true&theme=radical&line_height=27&v=5" alt="alvesxpdr GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesxpdr&theme=radical&layout=compact" />
 
-  
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br>
 -----
 <!--
 **pedro-rener/pedro-rener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
