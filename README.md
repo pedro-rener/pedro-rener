@@ -30,7 +30,6 @@ Meu nome é Pedro Rener, tenho 22 anos, sou estudante autodidata de progrmação
 </p>
 
 <br>
-<br>
 
 -----
 
