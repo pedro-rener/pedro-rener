@@ -29,13 +29,11 @@ Meu nome é Pedro Rener, tenho 22 anos, sou estudante autodidata de progrmação
   💼 Ferramentas: <strong>VSCode.</strong>
 </p>
 
-<br>
-
 -----
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=alvesxpdr&&show_icons=true&theme=radical&line_height=27&v=5" alt="alvesxpdr GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesxpdr&theme=radical&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=pedro-rener&&show_icons=true&theme=radical&line_height=27&v=5" alt="alvesxpdr GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rener&theme=radical&layout=compact" />
 
 -----
 <!--
