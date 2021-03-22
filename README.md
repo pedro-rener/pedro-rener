@@ -19,26 +19,27 @@ Meu nome é Pedro Rener, tenho 22 anos, sou estudante autodidata de progrmação
 - 📫 Envie um e-mail para pedro.rener@outlook.com para entrar em contato comigo.
 - 📝 Veja meu [Curriculum Vitae] (Link) para obter mais informações.
 
-**Languages and Tools:**  
+**Linguagens e Ferramentas**  
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, ReactJS, Node, Typescript, PostgreSQL, oAuth, Docker, GraphQL, UI/UX Design.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, PhotoShop, Figma, GitHub, Balsamiq.</strong>
+  💼 Ferramentas: <strong>VSCode.</strong>
 </p>
+
 <br>
 <br>
 <br>
 <br>
+
 -----
+
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=alvesxpdr&&show_icons=true&theme=radical&line_height=27&v=5" alt="alvesxpdr GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesxpdr&theme=radical&layout=compact" />
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br>
 -----
 <!--
 **pedro-rener/pedro-rener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
