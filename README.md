@@ -7,7 +7,7 @@
 <br />
 <br />
 
-My name is Pedro Alves, I am 22 years old, I am a self-taught student in web development, and I specialize in Front-end. At the moment I have been studying more and more web technologies and developing projects with the objective of improving my programming skills and being able to enter the job market.
+Me chamo Pedro Rener, tenho 22 anos, sou estudante autodidata de progrmação, e  venho me aprofundando nas tecnologias web. No momento venho me especializando no Front-End e desenvolvendo projetos com o objetivo de aprimorar minhas habilidades e conseguir entrar no mercado de trabalho.
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
 
