@@ -7,24 +7,27 @@
 <br />
 <br />
 
-Me chamo Pedro Rener, tenho 22 anos, sou estudante autodidata de progrmação, e  venho me aprofundando nas tecnologias web. No momento venho me especializando no Front-End e desenvolvendo projetos com o objetivo de aprimorar minhas habilidades e conseguir entrar no mercado de trabalho.
+Meu nome é Pedro Rener, tenho 22 anos, sou estudante autodidata de progrmação, e  venho me aprofundando nas tecnologias web. No momento venho me especializando no Front-End e desenvolvendo projetos com o objetivo de aprimorar minhas habilidades e conseguir entrar no mercado de trabalho.
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
 
 **Talking about Personal Stuffs:**
 
-- 💻 I am currently learning HTML, CSS and JAVASCRIPT.
-- 🤔 My interests are Web Development, Games and Animes.
-- 💬 Ask me about anything, I'm happy to help.
-- 📫 Send an email to alvsxpdr@gmail.com to contact me.
-- 📝 See my [Curriculum Vitae] (Link) to get more info.
+- 💻 Estou atualmente aprendendo HTML, CSS e JAVASCRIPT.
+- 🤔 Meus interesses são Desenvolvimento Web, Jogos e Animes.
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar.
+- 📫 Envie um e-mail para pedro.rener@outlook.com para entrar em contato comigo.
+- 📝 Veja meu [Curriculum Vitae] (Link) para obter mais informações.
 
 **Languages and Tools:**  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)
+<p align="left">
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, ReactJS, Node, Typescript, PostgreSQL, oAuth, Docker, GraphQL, UI/UX Design.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, PhotoShop, Figma, GitHub, Balsamiq.</strong>
+</p>
 <br>
 <br>
 <br>
