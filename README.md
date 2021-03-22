@@ -1,8 +1,13 @@
 ### Hello World🌍,
 
-[![Linkedin Badge](https://img.shields.io/badge/-pedro-rener-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-rener/)](https://www.linkedin.com/in/pedro-rener/)
-[![Twitter Badge](https://img.shields.io/badge/-@alvesxpdr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alvesxpdr)](https://twitter.com/alvesxpdr)
-[![Instagram Badge](https://img.shields.io/badge/-@alvesxpdr-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/alvesxpdr/)](https://www.instagram.com/alvesxpdr/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedro-rener" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+  
+  <a href="https://www.instagram.com/alvesxpdr/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+
+</p>
 
 <br />
 <br />
