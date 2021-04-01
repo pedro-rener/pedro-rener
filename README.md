@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Meu nome é Pedro Rener, tenho 22 anos, sou estudante autodidata de progrmação, e  venho me aprofundando nas tecnologias web. No momento venho me especializando no Front-End e desenvolvendo projetos com o objetivo de aprimorar minhas habilidades e conseguir entrar no mercado de trabalho.
+Meu nome é Pedro Rener, tenho 22 anos, sou estudante autodidata de programação, e  venho me aprofundando nas tecnologias web. No momento venho me especializando no Front-End e desenvolvendo projetos com o objetivo de aprimorar minhas habilidades e conseguir entrar no mercado de trabalho.
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador pedro">
 
