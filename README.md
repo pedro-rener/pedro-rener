@@ -36,7 +36,7 @@ Meu nome é Pedro Rener, tenho 22 anos, sou estudante autodidata de programaçã
 -----
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pedro-rener&&show_icons=true&theme=radical&line_height=27&v=5" alt="alvesxpdr GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=pedro-rener&&show_icons=true&theme=radical&line_height=27&v=5" alt="pedo-rener GitHub Stats" />
   
 -----
 <!--
